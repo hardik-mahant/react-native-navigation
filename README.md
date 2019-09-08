@@ -7,3 +7,9 @@ To demonstrate basic navigation functionality using react-native.
 - npm -v : 6.9.0
 - react-native-cli : 2.0.1
 - **react-native : 0.60.5**
+
+## Required libraries
+- <code>react-navigation</code>
+- <code>react-native-gesture-handler</code>
+- <code>react-native-reanimated</code>
+- <code>react-navigation-stack</code>
